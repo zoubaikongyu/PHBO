@@ -43,7 +43,7 @@ python main.py
 
 This will read the existing experimental data from `case.xlsx` and generate recommended point data using default parameters. The output will be stored in the `enzyme` folder.
 
-Estimated runtime: **3 minutes**
+Estimated execution time: **3 minutes**
 
 ---
 
